@@ -15,5 +15,5 @@ The task was to create an app to display cab ranks in Vienna on a map.
 
 ## How the app looks like
 
-> <img src="https://user-images.githubusercontent.com/112976198/214258645-6604d7e9-8330-43e7-b0c2-de3a81984a5b.mov" width="300"/>
+https://user-images.githubusercontent.com/112976198/214258645-6604d7e9-8330-43e7-b0c2-de3a81984a5b.mov
 
